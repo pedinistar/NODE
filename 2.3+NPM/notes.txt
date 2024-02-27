@@ -1,0 +1,12 @@
+Node Package Manager is known as NPM in order to get access to the world of open source node packages.
+So what exactly is teh Node Pachage Manager also known as NPM?
+
+Well, it's basically a place which collects modules that people have built for Node and it's created 
+by GitHub Organization and it's really great place to find code that other people have written 
+with utilities and tools to help you with writing your Node applications
+
+NPM is kind of like a community tool library. 
+
+
+npm install <something>
+

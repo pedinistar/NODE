@@ -1,0 +1,17 @@
+node is an asynchronous event-driven JavaScript runtime. Node.js is desihned to build scalable network applications
+-- according to node.js
+
+Node REPL -> Node Read Print Loop
+This is a computer environment where user inputs are
+read and evaluated and then results are returned
+to the user.
+
+What are Native Modules?
+
+
+What is File System is the native node Module
+that allows us to access the local storage.
+and in order to use it we need to either "import"
+the code from the file system module or we can use
+"require" the bits of code that we need from this module.
+
